@@ -11,7 +11,7 @@ class Country:
 class Kyrgyzstan(Country):
     def borders(self):
         have_borders = True
-        print('Kazakhstan', 'Uzbekistan', 'Tajikistan', 'China')
+        print('borders: ', 'Kazakhstan,', 'Uzbekistan,', 'Tajikistan,', 'China,')
 
 
 class Russia(Country):
