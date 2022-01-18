@@ -1,6 +1,5 @@
 const_hour = 40
 
-
 class Employee:
     def __init__(self, name, pin, hour) -> None:
         self.name = name
